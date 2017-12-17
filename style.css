@@ -1,16 +1,16 @@
-            img {
+            .img {
                 height: 43rem;
                 border: none
                 box-shadow: none;
             }
-            nav {
+            .nav {
                 position: fixed; z-index: 100; left: 0; font-size: 16px;
             }
-            nav ul {
+            .nav ul {
                 list-style-type: none;
             display: flex;
             flex-wrap: wrap;
             }
-            nav li {
+            .nav li {
                 margin-left: 1rem;
             }
