@@ -19,10 +19,20 @@
     margin-left: 1rem;
     font-size: 16px;
 }
+.nav a {
+    color: #EE3424 !important;
+}
 .ul {
     list-style-type: none !important;
     margin-left: 0 !important;
 }
 .ul li {
     font-size: 20px;
+}
+.ul a {
+    color: #EE3424!important;
+}
+
+section a {
+    color: #EE3424!important;
 }
