@@ -1,6 +1,6 @@
             .img {
                 height: 43rem;
-                border: none;
+                border: 0 solid transparent;
                 box-shadow: none;
             }
             .nav {
@@ -8,8 +8,11 @@
             }
             .nav ul {
                 list-style-type: none;
-                display: flex;
+                /*display: flex;*/
                 flex-wrap: wrap;
+                display: block;
+                margin-top: 8.5rem;
+                margin-left: 0;
             }
             .nav li {
                 margin-left: 1rem;
