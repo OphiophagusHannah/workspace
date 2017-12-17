@@ -1,6 +1,6 @@
             .img {
                 height: 43rem;
-                border: 0 solid transparent;
+                border: 0 solid transparent !important;
                 box-shadow: none;
             }
             .nav {
